@@ -36,3 +36,8 @@
 section {
   padding: 50px 0 50px 0;
 }
+
+#features,
+#pricing {
+  background-color: #8080800d;
+}
